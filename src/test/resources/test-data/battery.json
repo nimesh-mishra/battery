@@ -1,0 +1,57 @@
+[ {
+  "createdDate" : 1677834078.353724818,
+  "updatedDate" : 1677834078.353724818,
+  "deleted" : false,
+  "name" : "Amaron",
+  "postCode" : 6800,
+  "capacity" : 780
+}, {
+  "createdDate" : 1677834078.385268378,
+  "updatedDate" : 1677834078.385268378,
+  "deleted" : false,
+  "name" : "Amaron Z",
+  "postCode" : 6801,
+  "capacity" : 780
+}, {
+  "createdDate" : 1677834078.385727635,
+  "updatedDate" : 1677834078.385727635,
+  "deleted" : false,
+  "name" : "Amaron ZZ",
+  "postCode" : 6802,
+  "capacity" : 790
+}, {
+  "createdDate" : 1677834078.385978245,
+  "updatedDate" : 1677834078.385978245,
+  "deleted" : false,
+  "name" : "Amaron E",
+  "postCode" : 6803,
+  "capacity" : 790
+}, {
+  "createdDate" : 1677834078.386204911,
+  "updatedDate" : 1677834078.386204911,
+  "deleted" : false,
+  "name" : "Duracel",
+  "postCode" : 7800,
+  "capacity" : 780
+}, {
+  "createdDate" : 1677834078.386420169,
+  "updatedDate" : 1677834078.386420169,
+  "deleted" : false,
+  "name" : "Duracel Z",
+  "postCode" : 7801,
+  "capacity" : 780
+}, {
+  "createdDate" : 1677834078.386637997,
+  "updatedDate" : 1677834078.386637997,
+  "deleted" : false,
+  "name" : "Maha Shakti",
+  "postCode" : 8800,
+  "capacity" : 800
+}, {
+  "createdDate" : 1677834078.386853027,
+  "updatedDate" : 1677834078.386853027,
+  "deleted" : false,
+  "name" : "Heavy Duty",
+  "postCode" : 9800,
+  "capacity" : 810
+} ]
